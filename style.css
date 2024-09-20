@@ -1,0 +1,43 @@
+.personal-information {
+text-align: center;
+}
+
+.summary{
+    margin: 10px 50px 10px 50px;
+    text-align: center;
+}
+
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+h4{
+    margin-bottom: 1px;
+}
+
+ul{
+    margin-top: 2px;
+}
+
+.role {
+    font-style: italic;
+}
+
+.institute-name{
+    font-weight: bold;
+}
+.projects{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.experience{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+footer{
+    margin-left: 50px;
+    
+}
